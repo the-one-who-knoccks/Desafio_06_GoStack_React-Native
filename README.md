@@ -1,7 +1,6 @@
-# Fase-03 -Primeiro Projeto React-Native
+# Desafio 06 - GoStack - React-Native
 
-Desenvolvimento de aplicação mobile consumindo api do Github e listando usuários e seus repositórios favoritos.
-Aplicação desenvolvida durante o Bootcamp GoStack da rocketseat
+Adição de funcionalidades como animação de loading de repositório, Scroll infinito e navegação com o WebView na aplicação criada durante do bootcamp.
 
 # Instalação: 
 
@@ -14,11 +13,11 @@ Depois rode o comando  "react-native run-android" ou "react-native run-ios" e po
 
 Imagem da aplicação
 
-<img src="preview/prev01.png">
+<img src="Prev/prev01.png">
 </br>
 
-<img src="preview/prev02.png">
+<img src="Prev/prev02.png">
 </br>
 
-<img src="preview/prev03.png">
+<img src="Prev/prev03.png">
 </br>
