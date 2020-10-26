@@ -4,12 +4,34 @@ Adição de funcionalidades como animação de loading de repositório, Scroll i
 
 # Instalação: 
 
-Faça download ou clone o repositório.
+Clone o repositório:
 
-Dentro da pasta, abra o terminal e rode o comando "yarn".
+```bash
+$ git clone https://github.com/Desafio_06_GoStack_React-Native.git
+```
 
-Depois rode o comando  "react-native run-android" ou "react-native run-ios" e por fim, rode o comando yarn start.
+Dentro da pasta, abra o terminal e rode o comando:
 
+```bash
+$ "yarn"
+
+```
+
+Depois rode o comando:
+
+```bash
+$ react-native run-android
+```
+ou 
+
+```bash 
+react-native run-ios
+``` 
+e por último, rode o comando:
+
+``'bash
+yarn start.
+```
 
 Imagem da aplicação
 
