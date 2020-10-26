@@ -29,8 +29,8 @@ react-native run-ios
 ``` 
 e por último, rode o comando:
 
-``'bash
-yarn start.
+```bash
+$ yarn start
 ```
 
 Imagem da aplicação
