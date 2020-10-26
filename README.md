@@ -13,7 +13,7 @@ $ git clone https://github.com/Desafio_06_GoStack_React-Native.git
 Dentro da pasta, abra o terminal e rode o comando:
 
 ```bash
-$ "yarn"
+$  yarn
 
 ```
 
